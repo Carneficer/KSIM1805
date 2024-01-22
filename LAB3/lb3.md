@@ -30,7 +30,7 @@
 
 **Обрана модель**:
 <pre>
-/Users/ppunchenko/Documents/lb/Urban Suite - Pollution.nlogo
+C:\Program Files\NetLogo 6.4.0\models\Curricular Models\Urban Suite\Urban Suite - Pollution.nlogo
 </pre>
 **Параметри моделі** (вкладка Model):
 <pre>
